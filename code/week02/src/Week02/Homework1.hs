@@ -82,3 +82,4 @@ endpoints = (give' `select` grab') >> endpoints
 mkSchemaDefinitions ''GiftSchema
 
 mkKnownCurrencies []
+
